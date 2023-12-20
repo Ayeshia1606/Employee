@@ -1,4 +1,4 @@
-package com.ayeshiat.employeemgrserver.domain.employee.controllers;
+package com.ayeshiat.employeemgrserver.domain.employee.controller;
 
 import com.ayeshiat.employeemgrserver.domain.employee.models.Employee;
 import com.ayeshiat.employeemgrserver.domain.employee.services.EmployeeService;
